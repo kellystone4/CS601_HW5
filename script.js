@@ -127,6 +127,6 @@ async function getDegrees(url) {
       )
   }
 
-  getDegrees(url)
+  getDegrees("./degrees.json")
 
 
